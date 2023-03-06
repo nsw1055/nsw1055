@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm Chimco&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm%20Chimco&fontSize=90)
 <!--
 **nsw1055/nsw1055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
